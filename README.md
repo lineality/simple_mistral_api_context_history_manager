@@ -2,9 +2,10 @@
 
 https://colab.research.google.com/drive/1QOfDPk4BatHo2D37zWmsxCjs_PAb_7bU
 
-
 # Simple Chat with Mistral API
 This is a colab-notebook for chatting with a Mistral model. This colab can run on any online device that runs a web browser (phone, tablet, laptop, desktop, etc.).
+
+This is a system for using the online cloud Mistral api, not the mistral models run locally in a local pipeline.
 
 ### Note: Colabs are slower
 Free colabs are amazing for easily sharing and running code in a portable way,
@@ -14,6 +15,7 @@ but they are slower. Code in production, or run locally, will be faster than a c
 https://mistral.ai/news/mixtral-of-experts/
 
 ## Steps:
+- Configure api-key
 - Select Model: small-8x7 or tiny-7b (optional step)
 - Select style-prompt to experiment with personality of answer (optional)
   - Modify the personality = "" text to describe the personality you want.
@@ -22,6 +24,7 @@ https://mistral.ai/news/mixtral-of-experts/
 - Type text when prompted at bottom of the colab.
 - Download the saved conversation history if you want. (optional)
 - Save or download your own copy of the colab under 'File' tab.
+
 
 # For Roles and Conversation History
 
