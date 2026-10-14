@@ -1,6 +1,6 @@
 # simple_mistral_api_context_history_manager
 
-https://colab.research.google.com/drive/1QOfDPk4BatHo2D37zWmsxCjs_PAb_7bU
+https://colab.research.google.com/drive/1SGN6h-q9s77FepjPeRbF6PTw-YuPE87b?usp=sharing
 
 # Simple Chat with Mistral API
 This is a colab-notebook for chatting with a Mistral model. This colab can run on any online device that runs a web browser (phone, tablet, laptop, desktop, etc.).
